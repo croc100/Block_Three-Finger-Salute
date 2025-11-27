@@ -1,4 +1,4 @@
-Forty by croc100
+@author: croc100
 
 Block Ctrl+Alt+Delete
 
